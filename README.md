@@ -10,6 +10,7 @@ This is a fully functional **E-Commerce Web Application** built with React.js. I
 - **Cart Management**: Add, remove, and update product quantities.
 - **Wishlist Management**: Add and remove products from the wishlist.
 - **API Integration**: Fetch and manage product data dynamically.
+- **Lazy Loading**: Optimized loading of components and images for better performance.
 - **Responsive UI**: Optimized for all screen sizes.
 
 ## 🛠️ Technologies Used
